@@ -1,0 +1,1 @@
+export default function Header({user, onLogout}) { return <header className="header"><div><h1>FinPay</h1><p>Campus digital wallet & cashback</p></div>{user && <button className="button subtle" onClick={onLogout}>Log out</button>}</header> }

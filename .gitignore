@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+backend/.env
+frontend/node_modules/
+frontend/dist/
+.vscode/
+.idea/
+/output.txt
+/start_backend_windows.bat
+/start_frontend_windows.bat
