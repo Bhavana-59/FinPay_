@@ -59,6 +59,8 @@ These accounts are created by `backend/app/services/seed_service.py` on a fresh 
 |---|---|---|---|---|---:|
 | Rahul | `rahul@finpay.local` | `Student@123` | Student | BASIC | ₹1,000.00 |
 | Ananya | `ananya@finpay.local` | `Student@123` | Student | PRIME | ₹2,500.00 |
+| Arjun | `arjun@finpay.local` | `Student@123` | Student | BASIC | ₹1,000.00 |
+| Kiran | `kiran@finpay.local` | `Student@123` | Student | PREMIUM | ₹3,000.00 |
 | FinPay Admin | `admin@finpay.local` | `Admin@123` | Admin | No wallet | — |
 
 The web dashboard is student-only. The admin account can access the admin-protected monthly reconciliation API, but the project does not provide an admin dashboard.
